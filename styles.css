@@ -1,0 +1,12 @@
+.emoji {
+    font-size: 2rem;
+    cursor: pointer;
+    margin: 0 8px;
+  }
+  
+  .selected {
+    background-color: #ffd54f;
+    border-radius: 8px;
+    padding: 5px;
+    transform: scale(1.3);
+  }
